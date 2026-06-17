@@ -88,6 +88,4 @@ Generates comparison plots for learning rate, discount factor, epsilon decay, an
 | Target update | Every 10 episodes |
 | Epsilon | 0.9 → 0.05 (decay over 30k steps) |
 
-## License
 
-See [LICENSE](LICENSE).
